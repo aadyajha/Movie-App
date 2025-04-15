@@ -1,5 +1,6 @@
 {
-  "name": "rn-movie-app",
+  "name": "movie-app",
+  "author" : "Aadya Jha",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
